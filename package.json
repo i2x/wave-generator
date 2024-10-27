@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "mathjs": "^13.2.0",
+    "node-wav": "^0.0.2"
+  }
+}
